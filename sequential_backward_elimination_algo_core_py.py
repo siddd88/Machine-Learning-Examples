@@ -10,7 +10,7 @@ from itertools import combinations
 import numpy as np
 from sklearn.metrics import accuracy_score
 from sklearn.model_selection import train_test_split
-
+import pandas as pd
 
 class SBS():
     def __init__(self, estimator, k_features, scoring=accuracy_score,
