@@ -75,7 +75,6 @@ df_wine.columns = ['Class label', 'Alcohol', 'Malic acid', 'Ash',
                    'Color intensity', 'Hue', 'OD280/OD315 of diluted wines',
                    'Proline']
 
-from sklearn.model_selection import train_test_split
 
 X, y = df_wine.iloc[:, 1:].values, df_wine.iloc[:, 0].values
 
