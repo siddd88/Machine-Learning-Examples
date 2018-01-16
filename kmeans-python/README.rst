@@ -61,4 +61,4 @@ To use your own datasets and change various clustering paramters, see help text.
 Author
 ------
 
-Manish Munikar <munikarmanish@gmail.com>
+Siddharth Raghunath <siddharthraghunath794@gmail.com>
